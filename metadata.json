@@ -1,0 +1,5 @@
+{
+  "name": "AI 图像工作室",
+  "description": "使用 Google 最新的 AI 模型进行文生图和图生图。本应用支持多种宽高比的文本到图像生成，以及创造性的图像到图像修改。",
+  "requestFramePermissions": []
+}
